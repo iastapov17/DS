@@ -1,0 +1,112 @@
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-01-16; id_people: 158858; passengerfirstname: GLEBOV; passengersecondname: MAKAREVICH; passengerlastname: GORDEI; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-01-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-03-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1806; days: WNNull; deptime: 14:15:00; flight: SU1281; aircraft: -; travel_time: -; fromr: KZN; tor: SVO; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-04-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 15561; days: WNNull; deptime: 21:50:00; flight: AZ722; aircraft: -; travel_time: -; fromr: FCO; tor: ATH; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-05-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 14438; days: WNNull; deptime: 07:00:00; flight: CZ4618; aircraft: -; travel_time: -; fromr: NBO; tor: EBB; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-05-26; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1684528; days: 24567; deptime: 08:40:00; flight: RO9300; aircraft: 32S; travel_time: 1H35M; fromr: ATH; tor: OTP; 
+
+Возможный шпион!
+date: 2017-01-03; id_people: 181507; passengerfirstname: BUROV; passengersecondname: ALBERTOVICH; passengerlastname: RAMIL; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+date: 2017-07-12; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1550164; days: 1234567; deptime: 07:20:00; flight: AF7673; aircraft: EQV; travel_time: 1H35M; fromr: MRS; tor: CDG; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 158858; passengerfirstname: GLEBOV; passengersecondname: MAKAREVICH; passengerlastname: GORDEI; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-03-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1806; days: WNNull; deptime: 14:15:00; flight: SU1281; aircraft: -; travel_time: -; fromr: KZN; tor: SVO; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-04-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 15561; days: WNNull; deptime: 21:50:00; flight: AZ722; aircraft: -; travel_time: -; fromr: FCO; tor: ATH; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-05-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 14438; days: WNNull; deptime: 07:00:00; flight: CZ4618; aircraft: -; travel_time: -; fromr: NBO; tor: EBB; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-05-26; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1684528; days: 24567; deptime: 08:40:00; flight: RO9300; aircraft: 32S; travel_time: 1H35M; fromr: ATH; tor: OTP; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-07-12; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1550164; days: 1234567; deptime: 07:20:00; flight: AF7673; aircraft: EQV; travel_time: 1H35M; fromr: MRS; tor: CDG; 
+date: 2017-01-03; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 716; days: WNNull; deptime: 11:15:00; flight: SU1273; aircraft: -; travel_time: -; fromr: KRR; tor: SVO; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 158858; passengerfirstname: GLEBOV; passengersecondname: MAKAREVICH; passengerlastname: GORDEI; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-03-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1806; days: WNNull; deptime: 14:15:00; flight: SU1281; aircraft: -; travel_time: -; fromr: KZN; tor: SVO; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-04-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 15561; days: WNNull; deptime: 21:50:00; flight: AZ722; aircraft: -; travel_time: -; fromr: FCO; tor: ATH; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-05-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 14438; days: WNNull; deptime: 07:00:00; flight: CZ4618; aircraft: -; travel_time: -; fromr: NBO; tor: EBB; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-05-26; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1684528; days: 24567; deptime: 08:40:00; flight: RO9300; aircraft: 32S; travel_time: 1H35M; fromr: ATH; tor: OTP; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-07-12; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1550164; days: 1234567; deptime: 07:20:00; flight: AF7673; aircraft: EQV; travel_time: 1H35M; fromr: MRS; tor: CDG; 
+date: 2017-02-02; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 1532807; days: 12457; deptime: 23:40:00; flight: AM7; aircraft: EQV; travel_time: 10H15M; fromr: MEX; tor: LHR; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 158858; passengerfirstname: GLEBOV; passengersecondname: MAKAREVICH; passengerlastname: GORDEI; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-01-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1567952; days: 1234567; deptime: 01:45:00; flight: SU1057; aircraft: 32A; travel_time: 2H50M; fromr: MCX; tor: SVO; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-03-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1806; days: WNNull; deptime: 14:15:00; flight: SU1281; aircraft: -; travel_time: -; fromr: KZN; tor: SVO; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-04-10; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 15561; days: WNNull; deptime: 21:50:00; flight: AZ722; aircraft: -; travel_time: -; fromr: FCO; tor: ATH; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-05-16; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 14438; days: WNNull; deptime: 07:00:00; flight: CZ4618; aircraft: -; travel_time: -; fromr: NBO; tor: EBB; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-05-26; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1684528; days: 24567; deptime: 08:40:00; flight: RO9300; aircraft: 32S; travel_time: 1H35M; fromr: ATH; tor: OTP; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
+Возможный шпион!
+date: 2017-07-12; id_people: 25131; passengerfirstname: GORDEI; passengersecondname: MAKAREVICH; passengerlastname: GLEBOV; passengerbirthdate: 1982-12-31; passengerdocument: 8248 013778; idf: 1550164; days: 1234567; deptime: 07:20:00; flight: AF7673; aircraft: EQV; travel_time: 1H35M; fromr: MRS; tor: CDG; 
+date: 2017-04-16; id_people: 52281; passengerfirstname: RAMIL; passengersecondname: ALBERTOVICH; passengerlastname: BUROV; passengerbirthdate: 1995-08-24; passengerdocument: 8248 013778; idf: 6659; days: WNNull; deptime: 11:00:00; flight: KL6088; aircraft: -; travel_time: -; fromr: FCO; tor: JFK; 
+
